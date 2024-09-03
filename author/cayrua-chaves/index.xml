@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cayruã Chaves</title>
+    <title>Cayrua Chaves | Cayruã Chaves</title>
     <link>https://cayruachaves.github.io/author/cayrua-chaves/</link>
       <atom:link href="https://cayruachaves.github.io/author/cayrua-chaves/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cayruã Chaves</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <description>Cayrua Chaves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cayruachaves.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Cayruã Chaves</title>
+      <title>Cayrua Chaves</title>
       <link>https://cayruachaves.github.io/author/cayrua-chaves/</link>
     </image>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://cayruachaves.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://cayruachaves.github.io/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+      <title>Short-Term Rentals and Residential Rents: Evidence From a Regulation in Santa Monica</title>
+      <link>https://cayruachaves.github.io/publication/working-paper-1/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cayruachaves.github.io/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Short-Term Rentals on House Prices and Residential Mobility: Evidence from Madrid</title>
+      <link>https://cayruachaves.github.io/publication/working-paper-2/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cayruachaves.github.io/publication/working-paper-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+upyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
 &lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
